@@ -1,3 +1,5 @@
+pip<24.0
+setuptools==81.0.0
 autogluon==1.1.1
 shap==0.45.0  
 ipython==8.12.3
